@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "version": "4.7.18",
+  "tag": "v4.7.18",
+  "releaseUrl": "https://github.com/pigning2017/xhetakirimoto-releases/releases/tag/v4.7.18",
+  "platforms": {
+    "darwin-arm64": {
+      "file": "XhetaKirimoto-mac-arm64.dmg",
+      "url": "https://github.com/pigning2017/xhetakirimoto-releases/releases/download/v4.7.18/XhetaKirimoto-mac-arm64.dmg",
+      "sizeBytes": 184627194,
+      "sha256": "eb47a9616dc9661a958746669f25a0efe5a2349c0be6adf85ca809d9e36b85c3"
+    },
+    "darwin-x64": {
+      "file": "XhetaKirimoto-mac-x64.dmg",
+      "url": "https://github.com/pigning2017/xhetakirimoto-releases/releases/download/v4.7.18/XhetaKirimoto-mac-x64.dmg",
+      "sizeBytes": 189591059,
+      "sha256": "cb254fea210be302adafa50269e19c32cb790e055cb77a2c07b976a345cd75f2"
+    }
+  }
+}
