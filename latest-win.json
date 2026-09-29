@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "version": "4.7.21",
+  "tag": "v4.7.21",
+  "releaseUrl": "https://github.com/pigning2017/xhetakirimoto-releases/releases/tag/v4.7.21",
+  "platforms": {
+    "win32-x64": {
+      "file": "XhetaKirimoto-win-x64-Setup.exe",
+      "url": "https://github.com/pigning2017/xhetakirimoto-releases/releases/download/v4.7.21/XhetaKirimoto-win-x64-Setup.exe",
+      "sizeBytes": 124897647,
+      "sha256": "21122d4e62d4490d0988233f9042e2f27d1048ab547d7de9eec37921229e709b"
+    }
+  }
+}
